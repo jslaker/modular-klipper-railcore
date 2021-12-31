@@ -1,8 +1,8 @@
 [firmware_retraction]
 retract_length: 0.8
-retract_speed: 35
+retract_speed: 120
 unretract_extra_length: 0
-unretract_speed: 35
+unretract_speed: 60
 
 [extruder]
 nozzle_diameter: 0.400
@@ -45,9 +45,12 @@ horizontal_move_z: 5
 # These are conservative defaults - adjust to match your build.
 [stepper_x]
 position_max: 290
+
 # position_endstop: 0       # Adjust if using X max homing
+
 [stepper_y]
 position_max: 290
+
 [stepper_z]
 position_max: 300
 
