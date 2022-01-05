@@ -21,7 +21,6 @@ points:
 retries: 4
 retry_tolerance: 0.005 
 speed: 250  
-horizontal_move_z: 5 
 
 # Uncomment to adjust max speeds
 # [printer]
