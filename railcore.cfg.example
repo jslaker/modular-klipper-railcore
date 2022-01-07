@@ -11,10 +11,6 @@
 [include stepper/2209_E.cfg]
 [include stepper/2209_Z.cfg]
 
-# Stepper Motor Configuration
-[include motion/300ZL_XY.cfg]
-[include motion/300ZL_Z.cfg]
-
 # Probe Configuration
 [include probe/euclid.cfg]
 
