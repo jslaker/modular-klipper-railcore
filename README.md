@@ -1,4 +1,4 @@
-# Modular Klipper for Railcore
+# Modular Klipper for Railcore Printers
 
 This project is a modular Klipper configuration aimed at use with Railcore printers.
 
